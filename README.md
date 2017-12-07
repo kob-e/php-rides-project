@@ -10,3 +10,10 @@ use index.php to check if they work.
 
 ## Step 2 - Create
 Use file as Database and every line in the file represent JSON string of `Ride` Object.
+
+
+
+
+
+#### Greate stuff
+(http://php.net/manual/en/language.oop5.magic.php)
